@@ -1,0 +1,10 @@
+/* Disable counter in cells */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Set fix width for cells */
+.table-form .form-number {
+  width: 48px;
+}

@@ -1,0 +1,6 @@
+name: sasha_final
+type: module
+description: Provides form for accounting information.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

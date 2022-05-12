@@ -1,0 +1,7 @@
+sasha_final.content:
+  path: '/sasha/table'
+  defaults:
+    _title: 'Form'
+    _form: 'Drupal\sasha_final\Form\TableForm'
+  requirements:
+    _permission: 'access content'
